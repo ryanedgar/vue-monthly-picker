@@ -6,10 +6,10 @@
   "main": "dist/lib/vue-monthly-picker.min.js",
   "private": false,
   "license": "MIT",
-  "homepage": "https://github.com/ittus/vue-monthly-picker",
+  "homepage": "https://github.com/ryanedgar/vue-monthly-picker",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ittus/vue-monthly-picker"
+    "url": "git+https://github.com/ryanedgar/vue-monthly-picker"
   },
   "keywords": [
     "month-select",
@@ -115,6 +115,6 @@
   ],
   "peerDependencies": {
     "moment": "^2.18.1",
-    "vue": "^2.2.1"
+    "vue": "^3.1"
   }
 }
